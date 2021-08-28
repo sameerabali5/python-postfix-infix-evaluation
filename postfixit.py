@@ -1,8 +1,4 @@
 # Name:         Sameera Balijepalli
-# Course:       CPE 202
-# Instructor:   Daniel Kauffman
-# Assignment:   Postfix-It
-# Term:         Spring 2021
 
 #from typing import List
 
